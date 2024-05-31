@@ -14,7 +14,6 @@
     <h3>2nd yr collage</h3>
     <h3>Lives in Angono Rizal</h3>
 
-    </form>
 </body>
 </html>
 
