@@ -7,24 +7,12 @@
     <title>Information Gather</title>
 </head>
 <body>
-    <h1>Please Enter Your Information</h1>
+    <h1>BASIC INFORMATION</h1>
 
-    <form action="info.php" method="POST"><br>
-    <label for="firstname">Enter your First name:  </label><br>
-    <input type="text" name="firstname"><br>
-    <label for="middlename">Enter your Middle name:  </label><br>
-    <input type="text" name="middlename"><br>
-    <label for=":Lastname">Enter your Last name:  </label><br>
-    <input type="text" name="lastname"><br>
-    <label for="age">Enter your Age:  </label><br>
-    <input type="number" name="age"><br>
-    <label for="contact">Enter your Contact no.#:  </label><br>
-    <input type="number" name="contact"><br>
-    <label for="address">Enter your Address:  </label><br>
-    <input type="text" name="address"><br>
-    <label for="Course">Enter your Course:  </label><br>
-    <input type="text" name="course"><br>
-    <input type="submit" name="Submit">
+    <h3>Mark Laurence Singsing</h3>
+    <h3>20 yrs old</h3>
+    <h3>2nd yr collage</h3>
+    <h3>Lives in Angono Rizal</h3>
 
     </form>
 </body>
